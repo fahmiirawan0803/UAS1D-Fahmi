@@ -3,7 +3,7 @@ package UASJawabanNo3;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class UASJawabanNo3 {
+public class UAS1DFahmi {
     public static void main(String[] args) {
         int jum=4;
         UAS1D myMessage =  new UAS1D();

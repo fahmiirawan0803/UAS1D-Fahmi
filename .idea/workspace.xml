@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df19587e-5e0b-4ba2-af94-35dee8a802dd" name="Changes" comment="UAS1D No 3" />
+    <list default="true" id="df19587e-5e0b-4ba2-af94-35dee8a802dd" name="Changes" comment="UAS1D">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UASJawabanNo3/UAS1D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UASJawabanNo3/UAS1D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UASJawabanNo3/UASJawabanNo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UASJawabanNo3/UAS1DFahmi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UASJawabanNo3/context.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,17 +34,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/FAHMI/IdeaProjects/Project1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/FAHMI/IdeaProjects/OOP"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
-}</component>
-  <component name="RunManager" selected="Application.kopas">
+}]]></component>
+  <component name="RunManager" selected="Application.UAS1DFahmi">
     <configuration name="JawabanNo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JawabanNo2" />
       <module name="UAS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UAS1DFahmi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UASJawabanNo3.UAS1DFahmi" />
+      <module name="UAS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UASJawabanNo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kopas.lol" />
-      <module name="UAS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kopas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UAS1DFahmi" />
         <item itemvalue="Application.kopas" />
         <item itemvalue="Application.jawabanNo2" />
         <item itemvalue="Application.jawabanNllo2" />
         <item itemvalue="Application.JawabanNo2" />
-        <item itemvalue="Application.lol" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673929441596</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="UAS1D">
+      <created>1673929542692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673929542692</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +169,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UAS1D No 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="UAS1D No 3" />
+    <MESSAGE value="UAS1D" />
+    <option name="LAST_COMMIT_MESSAGE" value="UAS1D" />
   </component>
 </project>
