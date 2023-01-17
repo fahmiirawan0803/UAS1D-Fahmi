@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df19587e-5e0b-4ba2-af94-35dee8a802dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UAS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JawabanNo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JawabanNo2/jawabanNo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UASJawabanNo3/UAS1D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UASJawabanNo3/UASJawabanNo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UASJawabanNo3/context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kopas/kopas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kopas/lol.java" afterDir="false" />
-    </list>
+    <list default="true" id="df19587e-5e0b-4ba2-af94-35dee8a802dd" name="Changes" comment="UAS1D No 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,6 +115,28 @@
       <option name="presentableId" value="Default" />
       <updated>1673917927692</updated>
     </task>
+    <task id="LOCAL-00001" summary="UAS1D No 3">
+      <created>1673929211587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673929211587</updated>
+    </task>
+    <task id="LOCAL-00002" summary="UAS1D No 3">
+      <created>1673929284141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673929284141</updated>
+    </task>
+    <task id="LOCAL-00003" summary="UAS1D No 3">
+      <created>1673929441596</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673929441596</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,5 +149,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UAS1D No 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="UAS1D No 3" />
   </component>
 </project>
